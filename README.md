@@ -1,1 +1,1 @@
-<h1>SOCARE--</h1>
+<h1>SOCARE</h1>
